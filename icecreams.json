@@ -5,42 +5,42 @@
       "id": 1,
       "name": "Vanília",
       "status": "available",
-      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44095.png"
+      "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/vanilia.jpg"
     },
     {
       "id": 2,
-      "name": "Karamel",
+      "name": "Karamell",
       "status": "available",
-      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44090.png"
+      "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/karamell.jpg"
     },
     {
       "id": 3,
       "name": "Tutti-frutti",
-      "status": "available",
-      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44092.png"
+      "status": "available"
     },
     {
       "id": 4,
       "name": "Csokoládé",
-      "status": "run_out"
+      "status": "run_out",
+      "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/csokolade.jpg"
     },
     {
       "id": 5,
       "name": "Rumosdió",
       "status": "available",
-      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44073.png"
+      "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/dio.jpg"
     },
     {
       "id": 6,
       "name": "Kávé",
       "status": "available",
-      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44077.png"
+      "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/kave.jpg"
     },
     {
       "id": 7,
       "name": "Pisztácia",
       "status": "melted",
-      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44090.png"
+      "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/pisztacia.jpg"
     }
   ]
 }
