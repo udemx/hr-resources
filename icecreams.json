@@ -1,0 +1,46 @@
+{
+  "basePrice": 1,
+  "iceCreams": [
+    {
+      "id": 1,
+      "name": "Vanília",
+      "status": "available",
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44095.png"
+    },
+    {
+      "id": 2,
+      "name": "Karamel",
+      "status": "available",
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44090.png"
+    },
+    {
+      "id": 3,
+      "name": "Tutti-frutti",
+      "status": "available",
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44092.png"
+    },
+    {
+      "id": 4,
+      "name": "Csokoládé",
+      "status": "run_out"
+    },
+    {
+      "id": 5,
+      "name": "Rumosdió",
+      "status": "available",
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44073.png"
+    },
+    {
+      "id": 6,
+      "name": "Kávé",
+      "status": "available",
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44077.png"
+    },
+    {
+      "id": 7,
+      "name": "Pisztácia",
+      "status": "melted",
+      "imageUrl": "https://doclerlabs.github.io/mobile-native-challenge/images/pizza_PNG44090.png"
+    }
+  ]
+}
