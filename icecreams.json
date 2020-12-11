@@ -21,7 +21,7 @@
     {
       "id": 4,
       "name": "Csokoládé",
-      "status": "run_out",
+      "status": "unavailable",
       "imageUrl": "https://raw.githubusercontent.com/udemx/hr-resources/master/images/csokolade.jpg"
     },
     {
