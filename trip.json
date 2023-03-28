@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tenerife",
+    "desc": "Tenerife is the largest of the Canary Islands, and also of volcanic origins. It is dominated by the 3718 meters high volcano Mount Teide with its mighty crater. The Teide is not only the highest mountain of all Spain, but also the mountain with the highest elevation in all the Atlantic Ocean.",
+    "population": 966354,
+    "country": "Spain",
+    "languages": ["Spanish", "Guanche"]
+  },
+  
+  {
+    "name": "Stockholm",
+    "desc": "Stockholm, the capital of Sweden, encompasses 14 islands and more than 50 bridges on an extensive Baltic Sea archipelago. The cobblestone streets and ochre-colored buildings of Gamla Stan (the old town) are home to the 13th-century Storkyrkan Cathedral, the Kungliga Slottet Royal Palace and the Nobel Museum, which focuses on the Nobel Prize. Ferries and sightseeing boats shuttle passengers between the islands.",
+    "population": 975551,
+    "country": "Sweden",
+    "languages": ["Swedish"]
+  },
+  {
+    "name": "Krems an der Donau",
+    "desc": "Krems an der Donau is a town of 23,992 inhabitants in Austria, in the federal state of Lower Austria. It is the fifth-largest city of Lower Austria and is approximately 70 kilometres west of Vienna. Krems is a city with its own statute, and therefore it is both a municipality and a district.",
+    "population": 23898,
+    "country": "Austria",
+    "languages": ["German"]
+  },
+  {
+    "name": "Miami",
+    "desc": "Miami, officially the City of Miami, is a coastal metropolis and the seat of Miami-Dade County in South Florida. With a population of 442,241 as of the 2020 census, it is the second-most populous city in the state of Florida after Jacksonville.",
+    "population": 439890,
+    "country": "USA",
+    "languages": ["English"]
+  },
+  {
+    "name": "Auckland",
+    "desc": "Auckland, based around 2 large harbours, is a major city in the north of New Zealand’s North Island. In the centre, the iconic Sky Tower has views of Viaduct Harbour, which is full of superyachts and lined with bars and cafes. Auckland Domain, the city’s oldest park, is based around an extinct volcano and home to the formal Wintergardens. Near Downtown, Mission Bay Beach has a seaside promenade.",
+    "population": 1657000,
+    "country": "New Zealand",
+    "languages": ["English", "Māori"]
+  }
+]
