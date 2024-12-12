@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "brand": "Trek",
+    "model": "Domane SL 6",
+    "price": 4099.99,
+    "category": "Road",
+    "description": "A smooth and fast endurance road bike with top-notch components.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 2,
+    "brand": "Specialized",
+    "model": "Tarmac SL7",
+    "price": 5300.00,
+    "category": "Road",
+    "description": "The ultimate race bike for speed and performance.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 3,
+    "brand": "Canyon",
+    "model": "Endurace CF SL Disc 8.0",
+    "price": 3000.00,
+    "category": "Road",
+    "description": "A lightweight road bike perfect for long rides and hills.",
+    "availability": "Limited Stock"
+  },
+  {
+    "id": 4,
+    "brand": "Scott",
+    "model": "Addict RC 20",
+    "price": 3499.00,
+    "category": "Road",
+    "description": "A high-performance road bike for competitive cyclists.",
+    "availability": "Pre-Order"
+  },
+  {
+    "id": 5,
+    "brand": "Giant",
+    "model": "Defy Advanced Pro 1",
+    "price": 4500.00,
+    "category": "Road",
+    "description": "Designed for comfort on long-distance rides.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 6,
+    "brand": "Trek",
+    "model": "Checkpoint SL 5",
+    "price": 3299.99,
+    "category": "Gravel",
+    "description": "A versatile gravel bike built for off-road adventures.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 7,
+    "brand": "Specialized",
+    "model": "Diverge Comp Carbon",
+    "price": 4000.00,
+    "category": "Gravel",
+    "description": "The perfect companion for rough roads and gravel trails.",
+    "availability": "Limited Stock"
+  },
+  {
+    "id": 8,
+    "brand": "Canyon",
+    "model": "Grizl CF SL 8",
+    "price": 3499.00,
+    "category": "Gravel",
+    "description": "Ready for gravel adventures with a robust design.",
+    "availability": "Pre-Order"
+  },
+  {
+    "id": 9,
+    "brand": "Scott",
+    "model": "Speedster Gravel 10",
+    "price": 2500.00,
+    "category": "Gravel",
+    "description": "An affordable gravel bike with reliable components.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 10,
+    "brand": "Giant",
+    "model": "Revolt Advanced Pro 2",
+    "price": 3700.00,
+    "category": "Gravel",
+    "description": "Built for speed and control on gravel roads.",
+    "availability": "Limited Stock"
+  },
+  {
+    "id": 11,
+    "brand": "Bianchi",
+    "model": "Oltre XR4",
+    "price": 7800.00,
+    "category": "Road",
+    "description": "An Italian masterpiece for the discerning rider.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 12,
+    "brand": "Pinarello",
+    "model": "Dogma F12",
+    "price": 11500.00,
+    "category": "Road",
+    "description": "A legendary road bike known for its performance and design.",
+    "availability": "Pre-Order"
+  },
+  {
+    "id": 13,
+    "brand": "Cannondale",
+    "model": "Topstone Carbon Lefty 3",
+    "price": 4400.00,
+    "category": "Gravel",
+    "description": "Designed for adventure with a unique suspension fork.",
+    "availability": "In Stock"
+  },
+  {
+    "id": 14,
+    "brand": "Specialized",
+    "model": "Sequoia Elite",
+    "price": 2499.99,
+    "category": "Gravel",
+    "description": "A rugged gravel bike built for exploring off the beaten path.",
+    "availability": "Limited Stock"
+  },
+  {
+    "id": 15,
+    "brand": "Santa Cruz",
+    "model": "Stigmata CC",
+    "price": 5500.00,
+    "category": "Gravel",
+    "description": "A high-performance gravel bike for competitive riders.",
+    "availability": "In Stock"
+  }
+]
