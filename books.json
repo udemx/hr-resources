@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "description": "A classic romantic novel about manners, upbringing, morality, and marriage.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8226196-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "description": "A dystopian social science fiction novel and cautionary tale about the future.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "description": "A fantasy novel introducing Middle-earth and the adventures of Bilbo Baggins.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6979861-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "description": "A novel about racial injustice in the Deep South seen through a child's eyes.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8225268-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year": 1851,
+    "description": "The narrative of Captain Ahab's obsessive quest to kill the white whale.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/5555555-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year": 1869,
+    "description": "A historical novel about Russian society during the Napoleonic Era.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4444444-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "description": "A novel exploring themes of wealth, love, and the American Dream.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1234567-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "year": 1847,
+    "description": "A novel about a woman's struggle for independence and love.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/2345678-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "description": "A dystopian novel exploring technological and social control.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/3456789-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "description": "A story about teenage rebellion and alienation in postwar America.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4567890-L.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year": 1866,
+    "description": "A psychological novel about guilt and redemption.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/5678901-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "year": -800,
+    "description": "An epic poem about the journey of Odysseus returning home from the Trojan War.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6789012-L.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Iliad",
+    "author": "Homer",
+    "year": -750,
+    "description": "Epic poem recounting the events of the Trojan War.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7890123-L.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year": 1847,
+    "description": "A story of passion, revenge, and the destructive nature of obsession.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8901234-L.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "year": 1861,
+    "description": "A coming-of-age novel exploring social class and personal growth.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9012345-L.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "year": 1877,
+    "description": "A tragic story of love and infidelity in Russian high society.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1122334-L.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year": 1605,
+    "description": "A comedic tale of a man who believes he is a knight on a quest.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/2233445-L.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "description": "A gothic novel about the dangers of unchecked scientific ambition.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/3344556-L.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "description": "A horror novel introducing the iconic vampire Count Dracula.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/4455667-L.jpg"
+  },
+  {
+    "id": 20,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year": 1880,
+    "description": "A philosophical novel exploring morality, free will, and faith.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/5566778-L.jpg"
+  },
+  {
+    "id": 21,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "description": "A novel about vanity, moral corruption, and the consequences of indulgence.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/6677889-L.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "description": "A sweeping story of love, redemption, and revolution in France.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/7788990-L.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "description": "A whimsical tale of a girl falling into a fantastical world.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/8899001-L.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "year": 1844,
+    "description": "A story of betrayal, revenge, and justice.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/9900112-L.jpg"
+  },
+  {
+    "id": 25,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "year": 1859,
+    "description": "A historical novel set during the French Revolution.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1011121-L.jpg"
+  },
+  {
+    "id": 26,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "description": "A collection of detective stories featuring Sherlock Holmes.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1112131-L.jpg"
+  },
+  {
+    "id": 27,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "year": 1942,
+    "description": "A philosophical novel exploring absurdism and alienation.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1213141-L.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "description": "A dystopian novel about book burning and censorship.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1314151-L.jpg"
+  },
+  {
+    "id": 29,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "description": "An epic fantasy trilogy set in Middle-earth.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1415161-L.jpg"
+  },
+  {
+    "id": 30,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "description": "A philosophical novel about following your dreams.",
+    "coverUrl": "https://covers.openlibrary.org/b/id/1516171-L.jpg"
+  }
+]
