@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Téry Hut Trail",
+    "location": "Slovakia – High Tatras",
+    "distanceKm": 6.5,
+    "difficulty": "Medium",
+    "elevationGain": 700,
+    "durationHours": 2.5,
+    "description": "A scenic mountain trail leading to Téry Hut with stunning alpine views."
+  },
+  {
+    "id": 2,
+    "name": "Lake Bled Viewpoint",
+    "location": "Slovenia",
+    "distanceKm": 2.0,
+    "difficulty": "Easy",
+    "elevationGain": 200,
+    "durationHours": 1.0,
+    "description": "Short, rewarding hike to a panoramic viewpoint over Lake Bled."
+  },
+  {
+    "id": 3,
+    "name": "Dobogókő Circuit",
+    "location": "Hungary – Pilis Mountains",
+    "distanceKm": 12.0,
+    "difficulty": "Medium",
+    "elevationGain": 450,
+    "durationHours": 4.0,
+    "description": "Forest trail with lookout points and rock formations near Dobogókő."
+  },
+  {
+    "id": 4,
+    "name": "Grossglockner Trail",
+    "location": "Austria – Hohe Tauern",
+    "distanceKm": 14.0,
+    "difficulty": "Hard",
+    "elevationGain": 1200,
+    "durationHours": 6.0,
+    "description": "Challenging alpine route around Austria’s highest peak."
+  },
+  {
+    "id": 5,
+    "name": "Csóványos Summit",
+    "location": "Hungary – Börzsöny",
+    "distanceKm": 10.5,
+    "difficulty": "Medium",
+    "elevationGain": 800,
+    "durationHours": 4.5,
+    "description": "Beautiful forest hike to one of Hungary’s highest summits."
+  },
+  {
+    "id": 6,
+    "name": "Lomnicky Peak Trail",
+    "location": "Slovakia",
+    "distanceKm": 7.5,
+    "difficulty": "Hard",
+    "elevationGain": 950,
+    "durationHours": 5.0,
+    "description": "Demanding trail to one of the most famous peaks of the Tatras."
+  },
+  {
+    "id": 7,
+    "name": "Rila Lakes Circuit",
+    "location": "Bulgaria",
+    "distanceKm": 8.0,
+    "difficulty": "Medium",
+    "elevationGain": 500,
+    "durationHours": 3.0,
+    "description": "Loop trail visiting the iconic Seven Rila Lakes."
+  },
+  {
+    "id": 8,
+    "name": "Plitvice Waterfalls Trail",
+    "location": "Croatia",
+    "distanceKm": 5.5,
+    "difficulty": "Easy",
+    "elevationGain": 150,
+    "durationHours": 2.0,
+    "description": "A scenic path through the famous turquoise lakes and waterfalls."
+  },
+  {
+    "id": 9,
+    "name": "Kékes Summit",
+    "location": "Hungary – Mátra",
+    "distanceKm": 9.0,
+    "difficulty": "Medium",
+    "elevationGain": 600,
+    "durationHours": 3.5,
+    "description": "Popular hike to the highest point in Hungary with a lookout tower."
+  },
+  {
+    "id": 10,
+    "name": "Albanian Alps Traverse",
+    "location": "Albania",
+    "distanceKm": 18.0,
+    "difficulty": "Hard",
+    "elevationGain": 1300,
+    "durationHours": 8.0,
+    "description": "Challenging mountain path connecting Theth and Valbona valleys."
+  }
+]
